@@ -101,8 +101,8 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ComradeV7">Wanderlust AIO</a></h4>
+    <td width="50%" valign="center">
+      <h4>🤖 <a href="https://github.com/ComradeV7">Wanderlust AI</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
