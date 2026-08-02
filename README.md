@@ -37,16 +37,16 @@ Software Development Engineer specializing in building scalable backend systems,
 
 ---
 
-### 🛠️ Comprehensive Tech Stack & Skills
+### 🛠️ Tech Stack & Skills
 
-**Languages**<br/>
+**Languages**<br/></br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-**AI, ML & Data Science**<br/>
+**AI, ML & Data Science**<br/></br>
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -58,7 +58,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Llama_3-0466C8?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3"/>
 
-**Backend & Web Frameworks**<br/>
+**Backend & Web Frameworks**<br/></br>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
@@ -67,7 +67,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
-**Databases & Streaming**<br/>
+**Databases & Streaming**<br/></br>
 
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
@@ -75,7 +75,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 
-**MLOps, DevOps & Tools**<br/>
+**MLOps, DevOps & Tools**<br/></br>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
@@ -166,7 +166,7 @@ Software Development Engineer specializing in building scalable backend systems,
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/ComradeV7/CineSage">CineSage Full-Stack Platform</a></h4>
+      <h4>🎬 <a href="https://github.com/ComradeV7/CineSage">CineSage</a></h4>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
       <ul>
@@ -192,7 +192,7 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=darkhub&hide_border=true&background=0D1117&ring=007ACC&currStreakNum=007ACC" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=radical&hide_border=true&background=0D1117&ring=007ACC&currStreakNum=007ACC" alt="GitHub Streak" />
   
   <br/><br/>
   
