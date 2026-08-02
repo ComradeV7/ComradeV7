@@ -78,61 +78,87 @@ Software Development Engineer specializing in building scalable backend systems,
 
 ---
 
-### 🚀 Projects 
+### 🚀 Projects
 
-#### 1️⃣ 🤖 [Wanderlust AIO](https://github.com/ComradeV7)
-> *Python, LangGraph, LLM-as-a-Judge, Llama 3, Docker, FastAPI*
-- Architected an asynchronous, multi-agent REST backend using **LangGraph** and **FastAPI** to orchestrate stateful, Human-in-the-Loop agent workflows.
-- Engineered an automated $CI/CD$ evaluation pipeline in GitHub Actions utilizing heuristic regression gates and a calibrated **LLM-as-a-Judge** framework.
-- Mitigated hallucinations by implementing dynamic geospatial grounding via the **Nominatim API**, automatically scaling search radii based on location importance.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>1️⃣ 🤖 <a href="https://github.com/ComradeV7">Wanderlust AIO</a></h4>
+      <p><em>Python, LangGraph, LLM-as-a-Judge, Llama 3, Docker, FastAPI</em></p>
+      <ul>
+        <li>Architected an asynchronous, multi-agent REST backend using <b>LangGraph</b> and <b>FastAPI</b> to orchestrate stateful, Human-in-the-Loop workflows.</li>
+        <li>Engineered an automated CI/CD evaluation pipeline utilizing heuristic regression gates and a calibrated <b>LLM-as-a-Judge</b> framework.</li>
+        <li>Mitigated hallucinations by implementing dynamic geospatial grounding via the <b>Nominatim API</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>2️⃣ ⚡ <a href="https://github.com/ComradeV7">Fraud Detection Streaming Pipeline</a></h4>
+      <p><em>Python, Kafka, XGBoost, SHAP, Redis, Docker, PostgreSQL</em></p>
+      <ul>
+        <li>Architected a real-time <b>Kafka/Redis/PostgreSQL</b> streaming pipeline processing transactions with <b>0–3ms latency</b>.</li>
+        <li>Deployed an Optuna-tuned <b>XGBoost</b> fraud classifier (AUC = 0.95) with SHAP for real-time explainable AI insights.</li>
+        <li>Monitored live streams for concept drift via Kolmogorov-Smirnov statistical tests and tracked 15+ experiments in MLflow.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>3️⃣ 🧬 <a href="https://github.com/ComradeV7/Graph-ML-Drug-Target-Discovery">Graph ML Drug-Target Discovery</a></h4>
+      <p><em>Python, PyTorch Geometric, GCN, GAT, NetworkX, Vis.js</em></p>
+      <ul>
+        <li>Developed end-to-end Graph Neural Network architectures (<b>GCN</b> and <b>GAT</b>) to predict drug-target interactions for breast cancer subgraphs.</li>
+        <li>Executed topology EDA, degree bias tests, and model ablation studies to validate target prediction accuracy.</li>
+        <li>Built interactive biological network visualizations using Vis.js and NetworkX.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>4️⃣ 🔍 <a href="https://github.com/ComradeV7">LeetCode Neural Search</a></h4>
+      <p><em>Python, SBERT, Transformers, BM25, FastAPI</em></p>
+      <ul>
+        <li>Engineered a hybrid search engine combining <b>BM25</b> lexical matching with <b>SBERT</b> semantic embeddings.</li>
+        <li>Designed Reciprocal Rank Fusion (RRF k=60) ranking experiments achieving an <b>MRR of 0.517</b>.</li>
+        <li>Packaged inference models into low-latency FastAPI endpoints.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>5️⃣ 🛡️ <a href="https://github.com/ComradeV7/AI-Content-Moderation-System">AI Content Moderation System</a></h4>
+      <p><em>Python, LangGraph, SQLite, Policy Engines</em></p>
+      <ul>
+        <li>Built a multi-stage automated AI content moderation pipeline using <b>LangGraph</b> state machines to classify text and media.</li>
+        <li>Configured automated SQLite logging, fallback human-review flags, and dynamic policy execution workflows.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>6️⃣ 📈 <a href="https://github.com/ComradeV7/Multi-Proxy-GDP-Nowcasting">Multi-Proxy GDP Nowcasting</a></h4>
+      <p><em>Python, ARDL, DFM, Parquet, Streamlit</em></p>
+      <ul>
+        <li>Designed an econometric nowcasting engine leveraging high-frequency proxy indicators (FASTag toll data, E-Way bills).</li>
+        <li>Implemented <b>Autoregressive Distributed Lag (ARDL)</b> and <b>Dynamic Factor Models</b> for real-time forecasting.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>7️⃣ 📊 <a href="https://github.com/ComradeV7">Predictive BI Dashboard</a></h4>
+      <p><em>Python, XGBoost, Auto-ARIMA, Flask, Power BI</em></p>
+      <ul>
+        <li>Unified 8 relational tables into a predictive analytics pipeline, training 5 ML models for Churn, CLV, and Sales.</li>
+        <li>Optimized Auto-ARIMA forecasting (reducing MAE by 35%) and deployed batch CSV inference endpoints via Flask.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>8️⃣ 🎬 <a href="https://github.com/ComradeV7/CineSage">CineSage Full-Stack Platform</a></h4>
+      <p><em>React, TypeScript, Vite, Python, Firebase, Docker</em></p>
+      <ul>
+        <li>Built a full-stack personalized movie discovery web application with a dedicated recommendation backend service.</li>
+        <li>Implemented Firebase authentication, debounced search filters, responsive UI components, and Docker containerized deployment.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-#### 2️⃣ ⚡ [Fraud Detection Streaming Pipeline](https://github.com/ComradeV7)
-> *Python, Kafka, XGBoost, SHAP, Redis, Docker, PostgreSQL*
-- Architected a real-time **Kafka/Redis/PostgreSQL** streaming pipeline processing transactions with **0–3ms latency** and zero message loss.
-- Deployed an Optuna-tuned **XGBoost** fraud classifier ($AUC = 0.95$) with SHAP for real-time explainable AI insights (<15ms overhead).
-- Monitored live streams for concept drift via Kolmogorov-Smirnov statistical tests and tracked 15+ experiments in MLflow.
-
-#### 3️⃣ 🧬 [Graph ML Drug-Target Discovery](https://github.com/ComradeV7/Graph-ML-Drug-Target-Discovery)
-> *Python, PyTorch Geometric, GCN, GAT, NetworkX, Vis.js, Biological Interactome*
-- Developed end-to-end Graph Neural Network architectures (**GCN** and **GAT**) on biological interactome graphs to predict drug-target interactions for breast cancer subgraphs.
-- Executed topology EDA, degree bias tests, and model ablation studies to validate target prediction accuracy against empirical baselines.
-- Built interactive biological network visualizations using Vis.js and NetworkX.
-
-#### 4️⃣ 🔍 [LeetCode Neural Search](https://github.com/ComradeV7)
-> *Python, SBERT, Transformers, BM25, FastAPI*
-- Engineered a hybrid search engine combining **BM25** lexical matching with **SBERT** semantic embeddings to retrieve relevant algorithms.
-- Designed Reciprocal Rank Fusion ($RRF\ k=60$) ranking experiments achieving an **MRR of 0.517**, and packaged inference models into low-latency FastAPI endpoints.
-
-#### 5️⃣ 🛡️ [AI Content Moderation System](https://github.com/ComradeV7/AI-Content-Moderation-System)
-> *Python, LangGraph, SQLite, Policy Engines*
-- Built a multi-stage automated AI content moderation pipeline using **LangGraph** state machines to classify text and media against safety policy guardrails.
-- Configured automated SQLite logging, fallback human-review flags, and dynamic policy execution workflows.
-
-#### 6️⃣ 📈 [Multi-Proxy GDP Nowcasting](https://github.com/ComradeV7/Multi-Proxy-GDP-Nowcasting)
-> *Python, ARDL, Dynamic Factor Models (DFM), Parquet, Streamlit*
-- Designed an econometric nowcasting engine leveraging high-frequency proxy indicators (FASTag toll data, E-Way bills, electricity consumption) to predict quarterly state-level GSDP.
-- Implemented **Autoregressive Distributed Lag (ARDL)** and **Dynamic Factor Models** for real-time economic forecasting.
-
-#### 7️⃣ 📊 [Predictive BI Dashboard](https://github.com/ComradeV7)
-> *Python, XGBoost, Auto-ARIMA, Flask, Power BI*
-- Unified 8 relational tables into a predictive analytics pipeline, training 5 distinct ML models for Churn, Customer Lifetime Value (CLV), and Sales forecasting.
-- Optimized Auto-ARIMA forecasting (reducing MAE by 35%) and deployed real-time/batch CSV inference endpoints via Flask into Power BI dashboards.
-
-#### 8️⃣ 🎬 [CineSage Full-Stack Platform](https://github.com/ComradeV7/CineSage)
-> *React, TypeScript, Vite, Python, Recommendation Service, Firebase, Docker*
-- Built a full-stack personalized movie discovery web application with a dedicated recommendation backend service.
-- Implemented Firebase authentication, debounced search filters, responsive UI components, and Docker containerized deployment.
-
----
-
-### 💼 Experience
-
-**AI/ML Intern** | *Labmentix Pvt. Ltd.* `(Nov 2025 - Feb 2026)`
-- **E-Commerce Analytics Engine:** Developed an end-to-end customer segmentation pipeline by integrating K-Means and Collaborative Filtering for personalized recommendations.
-- **Computer Vision Pipeline:** Achieved a **94.9% accuracy rate** in real-time threat detection using YOLOv8 and a fine-tuned ResNet18 classifier.
-- **Predictive Investment Engine:** Delivered an inference engine with **98% $R^2$ accuracy** using Gradient Boosting and MLflow MLOps tracking.
-
----
 
 ### 🧩 Problem Solving
 
@@ -146,7 +172,7 @@ Software Development Engineer specializing in building scalable backend systems,
 
 <div align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=radicalk&hide_border=true" alt="GitHub Streak" />
   
   <br/><br/>
   
@@ -156,5 +182,5 @@ Software Development Engineer specializing in building scalable backend systems,
   <br/><br/>
 
   <!-- GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=radical&no-frame=true&margin-w=15&column=7&v=1" alt="GitHub Trophies" />
 </div>
