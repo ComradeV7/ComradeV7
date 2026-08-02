@@ -2,8 +2,33 @@
   <h1>N Hari Sai Vignesh</h1>
   <p><strong>AI/ML Engineer | GenAI & MLOps Specialist</strong></p>
 
-  <a href="mailto:nhs.vignesh@gmail.com"><img src="https://img.shields.io/badge/Email-nhs.vignesh%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/ComradeV7/ComradeV7/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+  <!-- Connect & Resume Badges -->
+  <p>
+    <a href="mailto:nhs.vignesh@gmail.com">
+      <img src="https://img.shields.io/badge/Email-nhs.vignesh%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/n-h-s-vignesh-317a1a274/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://drive.google.com/file/d/1uiw9k1ikR6jICrdloW08JtwRUwq_ktdJ/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/Resume-View%20PDF-1DA462?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+    </a>
+  </p>
+
+  <!-- Coding Profiles Badges -->
+  <p>
+    <a href="https://leetcode.com/u/vignesh_v7/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="https://codolio.com/profile/ComradeV7"> 
+      <img src="https://img.shields.io/badge/Codolio-111111?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+    </a>
+  </p>
+
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ComradeV7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </p>
 </div>
 
 <br/>
@@ -53,7 +78,7 @@ Software Development Engineer specializing in building scalable backend systems,
 
 ---
 
-### 🚀 Projects (Ranked by Complexity)
+### 🚀 Projects 
 
 #### 1️⃣ 🤖 [Wanderlust AIO](https://github.com/ComradeV7)
 > *Python, LangGraph, LLM-as-a-Judge, Llama 3, Docker, FastAPI*
@@ -120,6 +145,16 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComradeV7&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=react-dark&hide_border=true" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <!-- GitHub Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComradeV7&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+  
+  <br/><br/>
+
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=radical&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </div>
