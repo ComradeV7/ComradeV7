@@ -113,11 +113,9 @@ Software Development Engineer specializing in building scalable backend systems,
 
 <div align="center">
   <a href="https://leetcode.com/u/vignesh_v7/">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=vignesh_v7&theme=radical&hide_border=true" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/vignesh_v7?theme=radical&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </div>
-
-<br/>
 
 ### 📈 GitHub Analytics
 
