@@ -112,8 +112,8 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 🧩 Problem Solving
 
 <div align="center">
-  <a href="[https://leetcode.com/ComradeV7](https://leetcode.com/u/vignesh_v7/)">
-    [![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=vignesh_v7&theme=radical)](https://leetcode.com/vignesh_v7)
+  <a href="https://leetcode.com/u/vignesh_v7/">
+    <img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=vignesh_v7&theme=radical&hide_border=true" alt="LeetCode Stats"/>
   </a>
 </div>
 
