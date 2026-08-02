@@ -29,7 +29,7 @@
 <br/>
 
 ### 👨‍💻 About Me
-Software Development Engineer specializing in building scalable backend systems, high-performance APIs, and data pipelines powering **GenAI** and **ML applications**. 
+AI/ML Engineer specializing in building scalable backend systems, high-performance APIs, and data pipelines powering **GenAI** and **ML applications**. 
 
 - 🎓 **Education:** M.Tech Integrated in Computer Science (Data Science) @ **Vellore Institute of Technology** *(CGPA: 8.81/10)*
 - 🛠️ **Core Focus:** Distributed Systems, Agentic AI, Graph Neural Networks, Real-Time Streaming & MLOps
