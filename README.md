@@ -188,6 +188,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       <ul>
         <li>Designed an econometric nowcasting engine leveraging high-frequency proxy indicators to predict state-level GSDP.</li>
         <li>Implemented <b>Autoregressive Distributed Lag (ARDL)</b> and <b>Dynamic Factor Models</b> for real-time forecasting.</li>
+        <li></li>
       </ul>
     </td>
   </tr>
@@ -218,6 +219,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       <ul>
         <li>Built a full-stack personalized movie discovery web app with a dedicated recommendation backend service.</li>
         <li>Implemented Firebase authentication, debounced search filters, and Docker containerized deployment.</li>
+        <li></li>
       </ul>
     </td>
   </tr>
