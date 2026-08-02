@@ -10,7 +10,7 @@
   
   <p>
     Vellore Institute of Technology · M.Tech CSE (Data Science) <br/>
-    Available immediately (remote) · Mid-May (on-site)
+    Open to Work
   </p>
 
   <!-- Connect & Resume Badges -->
@@ -40,12 +40,14 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 🛠️ Comprehensive Tech Stack & Skills
 
 **Languages**<br/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
 **AI, ML & Data Science**<br/>
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
@@ -57,6 +59,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/Llama_3-0466C8?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3"/>
 
 **Backend & Web Frameworks**<br/>
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -65,6 +68,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
 **Databases & Streaming**<br/>
+
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -72,6 +76,7 @@ Software Development Engineer specializing in building scalable backend systems,
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 
 **MLOps, DevOps & Tools**<br/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
@@ -187,18 +192,15 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=darkhub&hide_border=true&background=0D1117&ring=007ACC&currStreakNum=007ACC" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComradeV7&theme=react-dark&hide_border=true&bg_color=0D1117&color=007ACC&line=007ACC&point=FFFFFF" alt="GitHub Activity Graph" />
   
   <br/><br/>
 
-  <!-- Trophies (Darkhub theme, borderless, 7 columns) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <[![trophy](https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+    <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
   </a>
 </div>
