@@ -192,11 +192,18 @@ Software Development Engineer specializing in building scalable backend systems,
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=react-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=ComradeV7&theme=darkhub&hide_border=true&background=0D1117&ring=007ACC&currStreakNum=007ACC" alt="GitHub Streak" />
+  
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComradeV7&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComradeV7&theme=react-dark&hide_border=true&bg_color=0D1117&color=007ACC&line=007ACC&point=FFFFFF" alt="GitHub Activity Graph" />
+  
   <br/><br/>
+
+  <!-- Trophies (Darkhub theme, borderless, 7 columns) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7&v=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ComradeV7&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7&v=2" alt="GitHub Trophies" />
   </a>
 </div>
