@@ -177,7 +177,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
         <li>Configured automated logging, fallback human-review flags, and dynamic policy execution workflows.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <h4>📈 <a href="https://github.com/ComradeV7/Multi-Proxy-GDP-Nowcasting">Multi-Proxy GDP Nowcasting</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -188,7 +188,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       <ul>
         <li>Designed an econometric nowcasting engine leveraging high-frequency proxy indicators to predict state-level GSDP.</li>
         <li>Implemented <b>Autoregressive Distributed Lag (ARDL)</b> and <b>Dynamic Factor Models</b> for real-time forecasting.</li>
-        <li></li>
+        
       </ul>
     </td>
   </tr>
@@ -207,7 +207,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
         <li>Deployed CSV inference endpoints via Flask to Power BI.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="center">
       <h4>🎬 <a href="https://github.com/ComradeV7/CineSage">CineSage Platform</a></h4>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
@@ -219,7 +219,6 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       <ul>
         <li>Built a full-stack personalized movie discovery web app with a dedicated recommendation backend service.</li>
         <li>Implemented Firebase authentication, debounced search filters, and Docker containerized deployment.</li>
-        <li></li>
       </ul>
     </td>
   </tr>
