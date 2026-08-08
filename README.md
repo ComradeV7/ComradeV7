@@ -102,7 +102,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ComradeV7">Wanderlust AI</a></h4>
+      <h4>🤖 <a href="https://github.com/ComradeV7/WanderLust-AI">Wanderlust AI</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph"/>
@@ -117,7 +117,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/ComradeV7">Fraud Detection Pipeline</a></h4>
+      <h4>⚡ <a href="https://github.com/ComradeV7/Fraud-Detection-System">Fraud Detection Pipeline</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
@@ -148,7 +148,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/ComradeV7">LeetCode Neural Search</a></h4>
+      <h4>🔍 <a href="https://github.com/ComradeV7/LeetCode-Neural-Search-Engine">LeetCode Neural Search</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Transformers"/>
@@ -193,7 +193,7 @@ AI/ML Engineer specializing in building scalable backend systems, high-performan
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/ComradeV7">Predictive BI Dashboard</a></h4>
+      <h4>📊 <a href="https://github.com/ComradeV7/BI-Dashboard-with-KPI-Optimization">Predictive BI Dashboard</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
